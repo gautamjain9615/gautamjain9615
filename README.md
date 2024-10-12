@@ -6,5 +6,5 @@ I'm Gautam, a software developer with a passion for technology and innovation. E
 - 🎓 Btech CSE'23 | IIT Jodhpur
 - 🌱 Learning something new every day.
 - 👯 Let's connect and build something amazing.
-- 📫 Reach me at jain.37@iitj.ac.in
+- 📫 Reach me at gautamjain9615@gmail.com
 
